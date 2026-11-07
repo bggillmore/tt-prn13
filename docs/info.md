@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+pin one flushes the lfsr, pin 2 sets reset value
 
 ## How to test
 
-Explain how to use your project
+Flush lfsr, first 1023 bits off of output 1 is the prn13
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+none
